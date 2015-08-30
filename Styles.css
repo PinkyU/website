@@ -1,0 +1,29 @@
+
+
+@import url(https://fonts.googleapis.com/css?family=Oswald|Roboto+Condensed|Indie+Flower);
+body {
+	background-color: #CDDBE8;
+	font-family: 'Roboto', sans-serif;
+}	
+
+h1{
+	color: #5B7E9B;
+	font-family: 'Indie', cursive;
+
+}
+
+a:link, a:visited {
+	color: #5B7E9B;
+	}
+
+	#P1{
+		color: green;
+	}
+
+	#P2{
+		color: purple;
+	}
+	p.hello{
+		color: yellow;
+	}
+	
